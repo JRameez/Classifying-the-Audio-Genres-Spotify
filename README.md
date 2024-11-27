@@ -57,5 +57,18 @@ The pickle file of pipeline is used for deployment application.
 
 A Streamlit application was developed to allow users to interactively predict the genre of the track. This interface serves as a practical application of the model for real-time decision-making.
 
+**Results:**
+
+**Welcome Page:**
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/fdb41477-fd98-44af-ba91-1438247aaf1d">
+
+
+**Prediction Page:**
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/32818181-7c4e-43db-935b-78c7ff7b2f3c">
+
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/6e927606-2b78-4c08-8c71-5427a10b63de">
+
+
